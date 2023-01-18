@@ -26,7 +26,7 @@ Analyzed and Visualized the data by Sale Price Per Square Foot and Average Gross
 
 Analyzed and Visualized the data by comparing the Average Sale Prices by Neighborhood.
 
-![Sample Report](/Images/bokeh_plot%20copy.png)
+![Sample Report](/Images/Neighborhood.png)
 
 Used  interactive visualizations with hvPlot and GeoViews to explore the geospatial relationships in the data.
 
