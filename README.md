@@ -5,14 +5,7 @@
 This project uses data visualization, including aggregation, interactive visualizations, and geospatial analysis, to find  and analyze properties in the San Francisco market that are viable investment opportunities.
 
 ## Technologies
-This platform uses python 3.7.13 with the following libraries imported in the first code block :
-
-
-`Pandas
-
-`hvplot
-
-`Pathlib
+This platform uses `python 3.7.13` with the following libraries imported in the first code block includes: `Pandas`, `hvplot`, `Pathlib`.
 
 ---
 ## Installation Guide 
